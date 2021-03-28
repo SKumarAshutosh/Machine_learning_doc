@@ -19,5 +19,5 @@ _ **4. ** __Add the predicted residuals to the previous predictions_
 
 _ **5. ** __Fit another model on residuals that is still left. i.e. _**_[e2 = y - y\_predicted2] _**_and repeat steps 2 to 5 until it starts overfitting or the sum of residuals become constant. Overfitting can be controlled by consistently checking accuracy on validation data._
 
-![](RackMultipart20210328-4-1sob42i_html_aef2a60becabbb97.gif)
+![](./Images/GBM_algorithm.jpg)
 
