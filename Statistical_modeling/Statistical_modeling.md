@@ -43,11 +43,18 @@
 
  
 
-Assumptions in Linear Regresssion:
+## Assumptions in Linear Regresssion:
 ### •	Linear relation
+![](../Images/Lin_relation.jpg)
+
 ### •	Little or no Multi colinearity
+![](../Images/Multi_col_assumtion.jpg)
+
 ### •	Mean of errors should be zero and should follow Normal Distribution
+![](../Images/Normal_dist_assumption.jpg)
+
 ### •	HomoScedacity:There should be no pattern observed between errors in x variables
+![](../Images/Homoscedicity_relation.jpg)
 
  
  
